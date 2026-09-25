@@ -303,4 +303,4 @@ CustomVDD/
 
 ---
 
-Copyright (c) 2026 CustomVDD Project · MIT License
+Copyright (c) 2026 Saretheya · MIT License
